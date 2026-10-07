@@ -286,7 +286,3 @@ jobs:
 
           print("All activities passed.")
           PY
-
-          
-          
-          
